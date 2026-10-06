@@ -7,15 +7,16 @@ This section will become a progressive, hands-on tutorial rather than a simple c
 1. [Your First Game](./01-your-first-game.md)
 2. [Movement, Facing & Line of Sight](./02-movement-facing-line-of-sight.md)
 3. [Activation & Actions](./03-activation-and-actions.md)
-4. The battlefield
-5. Operators and their cards
-6. Activation and actions
-7. Movement and facing
-8. Line of sight and cover
-9. Combat
-10. Gadgets and special abilities
-11. Rounds and phases
-12. Your first complete scenario
-13. Playing a full game
+4. [Combat](./04-combat.md)
+5. The battlefield
+6. Operators and their cards
+7. Activation and actions
+8. Movement and facing
+9. Line of sight and cover
+10. Combat
+11. Gadgets and special abilities
+12. Rounds and phases
+13. Your first complete scenario
+14. Playing a full game
 
 Each lesson will include explanations, worked examples and practical exercises.
