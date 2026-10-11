@@ -4,13 +4,11 @@ A progressive learning guide for **6: Siege – The Board Game**, with a long-te
 
 ## Start here
 
-- [Tutorial home](./tutorial/README.md)
-- [Lesson 1 — Your First Game](./tutorial/01-your-first-game.md)
-- [Lesson 2 — Movement, Facing & Line of Sight](./tutorial/02-movement-facing-line-of-sight.md)
-- [Lesson 3 — Activation & Actions](./tutorial/03-activation-and-actions.md)
-- [Lesson 4 — Combat](./tutorial/04-combat.md)
-- [First Learning Scenario](./tutorial/05-first-learning-scenario.md)
-- [First-game checklist](./tutorial/first-game-checklist.md)
+1. [Open the tutorial home](./tutorial/README.md).
+2. Play the [beginner learning-game guide: Consulate Control](./tutorial/first-learning-scenario.md).
+3. Keep the [first-game checklist](./tutorial/first-game-checklist.md) beside the board.
+4. Use the [first-game session sheet](./tutorial/first-game-session-sheet.md) to record questions and board states.
+5. Try the optional [Clear the Room mini-drill](./tutorial/05-first-learning-scenario.md) after the beginner game.
 
 ## Project goals
 
@@ -32,13 +30,13 @@ Camera → Board State → Rules Engine → Legal Actions → AI Decision → Hu
 ## Current status
 
 - Tutorial lessons 1–4 are committed.
-- A first learning scenario and quick checklist are available.
-- The beginner tutorial still needs a rules-verified end-to-end play-through before it can be called a complete playable milestone.
+- A beginner-game guide, checklist and session sheet are available.
+- The beginner materials still need a complete, rules-verified end-to-end play-through before the milestone can be called fully validated.
 - The rules engine and camera prototype are future development steps; neither is claimed to be working yet.
 
 ## Next milestone
 
-Make the first learning scenario complete and reliable: verify setup, Operator choices, round sequence, legal actions, victory conditions and all required components against the current rulebook and FAQ/errata. Then walk through the scenario step by step and correct any gaps.
+Play through the beginner guide step by step, record any unclear rules or missing setup details, and update the tutorial before building more AI features.
 
 ## Repository
 
