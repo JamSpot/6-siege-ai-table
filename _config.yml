@@ -1,0 +1,10 @@
+title: "6: Siege AI Table"
+description: "A practical learning hub for 6: Siege – The Board Game and a physical-table AI project."
+url: "https://jamspot.github.io"
+baseurl: "/6-siege-ai-table"
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
