@@ -6,7 +6,7 @@ This scenario is designed to get you playing rather than studying.
 
 For the first full learning game, use **Consulate — Control (Beginner)** from the mission material.
 
-The beginner setup is specifically intended for a first game: it can be played without a timer/app, or using the Beginner speed setting. The published beginner mission material uses a predefined set of Operators and does not use Hidden Operator tokens for this introduction.
+The beginner setup uses a predefined set of Operators and does not use Hidden Operator tokens for this introduction.
 
 ### Attackers
 
@@ -26,16 +26,27 @@ The beginner setup is specifically intended for a first game: it can be played w
 
 Do not substitute Operators for this first learning game. The point is to learn the game system before introducing team-building decisions.
 
+## Choose the timer mode before setup
+
+**Important: playing without the app is not simply the normal game with the timer ignored.** The official No App variant changes some rules, including how challenges are rewarded.
+
+Choose one approach before you set up:
+
+- **Recommended if you have the companion app:** select the Beginner speed setting. This keeps the standard game procedure while giving you more time to learn.
+- **If you want to play without the app:** use the rulebook's official **No App variant**. Put the 10 Bonus tokens in the general supply and follow that variant's rules for assigning bonus-action or penalty tokens after challenges.
+
+Do not mix the standard timed rules with an improvised “timer off” mode. If you are unsure how a challenge works, check the No App section of the rulebook and the current FAQ/errata before continuing.
+
 ## Learning mode
 
 For your first attempt:
 
-- **Do not use the timer.**
 - Use the mission's beginner setup.
 - Use the listed Operators.
 - Follow the mission deployment exactly.
+- Choose one timer mode from the section above and apply it consistently.
 - Keep the Operator cards beside the board.
-- Keep the LOS tool, dice and reference material beside the board.
+- Keep the line-of-sight tool, dice and reference material beside the board.
 - Stop whenever you are unsure and resolve the rule before continuing.
 
 This is deliberately a training game, not a speed test.

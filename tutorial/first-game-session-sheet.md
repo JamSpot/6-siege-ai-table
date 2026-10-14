@@ -1,13 +1,14 @@
 # First Game Session Sheet
 
-Use this one-page worksheet beside the board during your first learning game. It is a project aid, not a replacement for the official mission rules.
+Use this worksheet beside the board during your first learning game. It is a project aid, not a replacement for the official mission rules.
 
 ## Before starting
 
 - [ ] Open the [Consulate Control beginner setup](./first-learning-scenario.md).
 - [ ] Set up the map, objective and deployment exactly as the mission material instructs.
 - [ ] Put the Operator cards, dice, line-of-sight tool and reference material within reach.
-- [ ] Leave the timer off for this learning session.
+- [ ] Choose a timer mode: the companion app's Beginner setting, or the official No App variant.
+- [ ] If using No App, put the 10 Bonus tokens in the general supply and follow the variant's challenge rules.
 - [ ] Agree that anyone can pause play to check a rule.
 
 ## Round sequence
