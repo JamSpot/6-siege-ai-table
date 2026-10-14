@@ -10,6 +10,18 @@ A progressive learning guide for **6: Siege – The Board Game**, with a long-te
 4. Use the [first-game session sheet](./tutorial/first-game-session-sheet.md) to record questions and board states.
 5. Try the optional [Clear the Room mini-drill](./tutorial/05-first-learning-scenario.md) after the beginner game.
 
+## Publish the website
+
+The website is built with Jekyll and the deployment workflow in [`.github/workflows/pages.yml`](./.github/workflows/pages.yml). Pull requests build the site to catch Jekyll errors; pushes to `main` publish it.
+
+One-time GitHub setting required:
+
+1. Open this repository's **Settings → Pages**.
+2. Under **Build and deployment → Source**, select **GitHub Actions**.
+3. After this workflow runs successfully on `main`, check the **Actions** tab for the deployment result.
+
+The intended public address is https://jamspot.github.io/6-siege-ai-table/. Do not treat it as live until the deployment run succeeds.
+
 ## Project goals
 
 1. Teach the game progressively, from the battlefield and core actions through to a complete game.
