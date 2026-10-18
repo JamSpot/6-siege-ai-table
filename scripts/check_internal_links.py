@@ -28,7 +28,7 @@ def read_baseurl() -> str:
         return ""
     for line in config.read_text(encoding="utf-8").splitlines():
         if line.strip().startswith("baseurl:"):
-            return line.split(":", 1)[1].strip().strip("\\"'").rstrip("/")
+            return line.split(":", 1)[1].strip().strip(chr(34) + chr(39)).rstrip("/")
     return ""
 
 def resolve_target(root: Path, source: Path, raw: str, baseurl: str) -> tuple[Path | None, str]:
