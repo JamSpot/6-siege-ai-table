@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "Lesson 3 — Activation & Actions"
+permalink: "/tutorial/03-activation-and-actions.html"
+previous_url: "/tutorial/02-movement-facing-line-of-sight.html"
+previous_title: "Lesson 2 — Movement, Facing & Line of Sight"
+next_url: "/tutorial/04-combat.html"
+next_title: "Lesson 4 — Combat"
+---
 # Lesson 3 — Activation & Actions
 
 The aim of this lesson is to understand what an Operator can actually do during an activation.
