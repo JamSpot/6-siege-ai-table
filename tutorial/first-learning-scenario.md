@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "First Learning Scenario — Consulate Control"
+permalink: "/tutorial/first-learning-scenario.html"
+previous_url: "/tutorial/04-combat.html"
+previous_title: "Lesson 4 — Combat"
+next_url: "/tutorial/first-game-checklist.html"
+next_title: "First-game checklist"
+---
 # First Learning Scenario — Consulate Control
 
 This scenario is designed to get you playing rather than studying.
