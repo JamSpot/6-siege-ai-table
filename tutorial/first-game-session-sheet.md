@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "First Game Session Sheet"
+permalink: "/tutorial/first-game-session-sheet.html"
+previous_url: "/tutorial/first-game-checklist.html"
+previous_title: "First-game checklist"
+next_url: "/tutorial/05-first-learning-scenario.html"
+next_title: "Clear the Room — optional drill"
+---
 # First Game Session Sheet
 
 Use this worksheet beside the board during your first learning game. It is a project aid, not a replacement for the official mission rules.

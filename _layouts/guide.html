@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.title | escape }} — 6: Siege AI Table learning guide and project notes.">
+  <title>{{ page.title | escape }} — 6: Siege AI Table</title>
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header"><div class="wrap nav">
+    <a class="brand" href="{{ '/' | relative_url }}">6: SIEGE <span>AI TABLE</span></a>
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/tutorial/' | relative_url }}">Learn to play</a>
+      <a href="{{ '/tutorial/first-learning-scenario.html' | relative_url }}">Beginner game</a>
+      <a href="{{ '/tutorial/first-game-checklist.html' | relative_url }}">Checklist</a>
+      <a href="{{ '/tutorial/first-game-session-sheet.html' | relative_url }}">Session sheet</a>
+      <a href="{{ '/#ai-project' | relative_url }}">AI project</a>
+      <a href="{{ '/rules/README.html' | relative_url }}">Rules</a>
+      <a href="{{ '/ai/README.html' | relative_url }}">AI</a>
+      <a href="{{ '/vision/README.html' | relative_url }}">Board vision</a>
+    </nav>
+  </div></header>
+  <main class="wrap guide-page">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">/</span>
+      {% if page.url contains '/tutorial/' %}<a href="{{ '/tutorial/' | relative_url }}">Learn to play</a><span aria-hidden="true">/</span>{% endif %}
+      <span aria-current="page">{{ page.title | escape }}</span>
+    </nav>
+    <article class="guide-content">{{ content }}</article>
+    {% if page.previous_url or page.next_url %}
+    <nav class="page-steps" aria-label="Continue reading">
+      {% if page.previous_url %}<a class="step-link previous" href="{{ page.previous_url | relative_url }}"><span>← Previous</span><strong>{{ page.previous_title | escape }}</strong></a>{% endif %}
+      {% if page.next_url %}<a class="step-link next" href="{{ page.next_url | relative_url }}"><span>Next</span><strong>{{ page.next_title | escape }} →</strong></a>{% endif %}
+    </nav>
+    {% endif %}
+    <p class="small guide-return"><a href="{{ '/tutorial/' | relative_url }}">Back to the learning path</a> · <a href="{{ '/#ai-project' | relative_url }}">AI project overview</a></p>
+  </main>
+  <footer class="site-footer"><div class="wrap footer-inner"><span>6: Siege AI Table · Learning and development project</span><a href="https://github.com/JamSpot/6-siege-ai-table">View the project on GitHub</a></div></footer>
+</body>
+</html>

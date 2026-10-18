@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "Supplementary Mini-Drill — Clear the Room"
+permalink: "/tutorial/05-first-learning-scenario.html"
+previous_url: "/tutorial/first-game-session-sheet.html"
+previous_title: "First-game session sheet"
+next_url: "/tutorial/"
+next_title: "Return to learning path"
+---
 # Supplementary Mini-Drill — Clear the Room
 
 **Project-created practice drill; not an official mission and not a replacement for the beginner setup.**

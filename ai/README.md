@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "AI Opponent"
+permalink: "/ai/README.html"
+previous_url: "/rules/README.html"
+previous_title: "Rules engine"
+next_url: "/vision/README.html"
+next_title: "Board vision"
+---
 # AI Opponent
 
 The AI opponent will eventually choose actions for one side of a physical game.

@@ -1,3 +1,8 @@
+---
+layout: guide
+title: "Learning Path Overview"
+permalink: "/tutorial/learning-path-overview.html"
+---
 # Learn 6: Siege – The Board Game
 
 This is a progressive, hands-on tutorial. Learn the mechanics at the table first; the AI system is built alongside the learning process.

@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "Computer Vision"
+permalink: "/vision/README.html"
+previous_url: "/ai/README.html"
+previous_title: "AI opponent"
+next_url: "/#ai-project"
+next_title: "AI project overview"
+---
 # Computer Vision
 
 The vision system will turn the physical tabletop into a structured game state.

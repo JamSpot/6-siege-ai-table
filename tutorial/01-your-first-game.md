@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "Lesson 1 — Your First 6: Siege Game"
+permalink: "/tutorial/01-your-first-game.html"
+previous_url: "/tutorial/"
+previous_title: "Learning path"
+next_url: "/tutorial/02-movement-facing-line-of-sight.html"
+next_title: "Lesson 2 — Movement, Facing & Line of Sight"
+---
 # Lesson 1 — Your First 6: Siege Game
 
 **Goal:** get you playing a small, simplified practice game before we teach every rule.
