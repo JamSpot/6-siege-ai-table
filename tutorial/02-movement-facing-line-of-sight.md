@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "Lesson 2 — Movement, Facing & Line of Sight"
+permalink: "/tutorial/02-movement-facing-line-of-sight.html"
+previous_url: "/tutorial/01-your-first-game.html"
+previous_title: "Lesson 1 — Your First Game"
+next_url: "/tutorial/03-activation-and-actions.html"
+next_title: "Lesson 3 — Activation & Actions"
+---
 # Lesson 2 — Movement, Facing & Line of Sight
 
 This is the first hands-on mechanics lesson. Put the board in front of you and physically move the Operators as you work through the exercises.
