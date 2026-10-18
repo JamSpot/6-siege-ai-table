@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "Lesson 4 — Combat"
+permalink: "/tutorial/04-combat.html"
+previous_url: "/tutorial/03-activation-and-actions.html"
+previous_title: "Lesson 3 — Activation & Actions"
+next_url: "/tutorial/first-learning-scenario.html"
+next_title: "Consulate Control — Beginner Game"
+---
 # Lesson 4 — Combat
 
 This lesson introduces the basic attack workflow. Keep the relevant Operator cards beside the board and resolve each step from the current rules rather than trying to memorise every weapon interaction.
