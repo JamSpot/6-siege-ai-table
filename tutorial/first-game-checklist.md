@@ -1,3 +1,12 @@
+---
+layout: guide
+title: "First Game Checklist"
+permalink: "/tutorial/first-game-checklist.html"
+previous_url: "/tutorial/first-learning-scenario.html"
+previous_title: "Consulate Control — Beginner Game"
+next_url: "/tutorial/first-game-session-sheet.html"
+next_title: "First-game session sheet"
+---
 # First Game Checklist
 
 Use this beside the board while learning.
