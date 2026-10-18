@@ -39,19 +39,17 @@ You will eventually learn reactions, Overwatch, Riposte, destructible terrain, s
 
 Not yet.
 
-## 3. Set up only what we need
+## 3. Use the published beginner setup
 
-For your first learning session:
+For your first complete learning game, use [Consulate Control — Beginner](./first-learning-scenario.md). That page gives you the recommended scenario and its fixed Operator lists.
 
-1. Choose one map from the core box.
-2. Choose a simple Control mission.
-3. Put the mission components on the map as instructed by the mission guide.
-4. Choose a small team of Operators for each side rather than trying to learn the entire roster.
-5. Put the Operator profile cards where both players can see them.
-6. Put dice, the line-of-sight tools, movement/activation markers and other commonly used components beside the board.
-7. Do the normal deployment for the chosen mission, but **do not worry about playing at full speed yet**.
+1. Choose **Consulate — Control (Beginner)** in the mission material.
+2. Follow the mission guide exactly for the board, objectives, obstacles and deployment.
+3. Use the Operators listed in the beginner scenario; do not build a custom smaller squad for this first full game.
+4. Keep the Operator profile cards visible and within reach.
+5. Put the dice, line-of-sight tool, movement/activation markers and other required components beside the board.
 
-The real game also uses a timed system. There is an official companion app with different speed settings, including Beginner, Chill, Standard and Extreme. For learning, use the least stressful setting and concentrate on understanding the sequence first.
+Do not improvise setup details from this lesson. The mission guide controls the actual setup; the scenario page is a learning aid to help you follow it.
 
 ## 4. Your first round
 
@@ -131,17 +129,16 @@ That means our overhead camera will eventually need to recognise **where an Oper
 
 This is one of the reasons the physical-table AI idea is technically interesting.
 
-## 7. Don't use the timer yet
+## 7. Choose a valid timer mode
 
-For your first learning game, leave the pressure of the real-time system aside.
+Decide which mode you will use **before setup**:
 
-First learn:
+- **Companion app available:** choose the app's **Beginner** speed setting. This keeps the normal game procedure while giving you more time to learn.
+- **Playing without the app:** use the rulebook's official **No App variant**. Put the 10 Bonus tokens in the general supply and follow that variant's challenge rules, including its bonus-action or penalty-token consequences.
 
-**where pieces can go → what they can see → what they can shoot → how objectives work.**
+Do not use the standard timed rules while simply leaving the timer off. The No App variant changes rules as well as removing the app timer.
 
-Then introduce the timer.
-
-The official game supports different timer speeds, so we can progressively move you from learning mode to proper timed play.
+Keep the pace relaxed and focus on learning: **where Operators can go → what they can see → what they can shoot → how the Control objective works.**
 
 ## 8. Your first target
 
@@ -182,8 +179,8 @@ That lesson will be much more hands-on. You will be able to put Operators on the
 
 ### Sources
 
-- Steamforged Games — current publisher/project information.
-- BoardGameGeek — game overview and gameplay structure.
-- Official 6: Siege FAQ/Errata — rule clarifications.
+- [Rulebook text (RulesPal mirror)](https://www.rulespal.com/six-siege/rulebook) — core rules and the No App variant.
+- [6: Siege FAQ and Errata (PDF copy)](https://tesera.ru/images/items/2554783/FAQ_6_Siege_-_The_Board_Game_-_FINAL_200424.pdf) — published clarifications and corrections.
+- The physical rulebook and mission guide supplied with your game take priority over this tutorial.
 
 See the project README for the developing AI-table architecture.
