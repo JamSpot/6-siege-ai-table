@@ -1,3 +1,8 @@
+---
+layout: guide
+title: "Project Overview"
+permalink: "/project-overview.html"
+---
 # 6: Siege AI Table
 
 A progressive learning guide for **6: Siege – The Board Game**, with a long-term goal of building a physical-table AI opponent.
