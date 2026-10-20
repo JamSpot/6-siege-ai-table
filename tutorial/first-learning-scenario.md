@@ -42,7 +42,7 @@ Do not substitute Operators for this first learning game. The point is to learn 
 Choose one approach before you set up:
 
 - **Recommended if you have the companion app:** select the Beginner speed setting. This keeps the standard game procedure while giving you more time to learn.
-- **If you want to play without the app:** use the rulebook's official **No App variant**. Put the 10 Bonus tokens in the general supply and follow that variant's rules for assigning bonus-action or penalty tokens after challenges. Keep the [No App table reference](./no-app-quick-reference.md) beside the board.
+- **If you want to play without the app:** use the rulebook's official **No App variant**. Put the 10 Bonus tokens in the general supply and follow that variant's rules for assigning bonus-action or penalty tokens after challenges. Keep the [No App table reference](./no-app-quick-reference.html) beside the board.
 
 Do not mix the standard timed rules with an improvised “timer off” mode. If you are unsure how a challenge works, check the No App section of the rulebook and the current FAQ/errata before continuing.
 
