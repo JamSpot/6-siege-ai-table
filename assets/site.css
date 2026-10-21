@@ -12,3 +12,35 @@ a{color:var(--mint);text-underline-offset:.2em}a:hover{color:#c5f3e8}a:focus-vis
 .guide-content table{display:block;max-width:100%;overflow-x:auto;border-collapse:collapse}.guide-content th,.guide-content td{padding:.55rem .7rem;border:1px solid var(--line);text-align:left}.guide-content blockquote{margin:1.2rem 0;padding:.8rem 1rem;border-left:3px solid var(--accent);background:rgba(240,180,75,.07);color:var(--muted)}.guide-content pre{max-width:100%;overflow-x:auto;padding:1rem;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
 .page-steps{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;border-top:1px solid var(--line);padding-top:1.5rem}.step-link{display:flex;flex-direction:column;gap:.35rem;padding:1rem;border:1px solid var(--line);border-radius:10px;text-decoration:none;background:var(--panel)}.step-link span{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}.step-link strong{color:var(--mint)}.step-link.next{text-align:right}.guide-return{padding:1.2rem 0}
 @media(max-width:520px){.page-steps{grid-template-columns:1fr}.step-link.next{text-align:left}}
+
+
+/* Comfortable light reading theme: warm paper, dark ink, and soft contrast */
+:root{
+  color-scheme:light;
+  --bg:#f5f3ee;
+  --panel:#ffffff;
+  --panel2:#eeeee8;
+  --line:#d6d8d2;
+  --text:#263238;
+  --muted:#59666b;
+  --accent:#a96512;
+  --mint:#176b5b;
+}
+body{
+  background:radial-gradient(ellipse at 80% 0%,#e6eeeb 0,var(--bg) 45rem);
+  color:var(--text);
+}
+a{color:var(--mint)}
+a:hover{color:#104d42}
+.site-header{background:rgba(245,243,238,.94)}
+.nav-links a:hover,.nav-links a[aria-current=page]{color:var(--text)}
+.button{border-color:var(--accent);background:#f0d5a9;color:#342b20}
+.button:hover{background:#e8c28a;color:#342b20}
+.button.secondary{background:transparent;color:var(--text);border-color:var(--line)}
+.button.secondary:hover{border-color:var(--mint);color:var(--mint)}
+.card{background:linear-gradient(150deg,#fff,#f0f0eb)}
+.number{border-color:#c6a16c;color:#85500e}
+.notice{background:#f6eddd;color:var(--muted)}
+.notice strong{color:var(--text)}
+.pipeline span{background:var(--panel)}
+.step-link strong{color:var(--mint)}
