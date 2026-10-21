@@ -29,15 +29,22 @@ Instead of gaining or losing time, the player who wins a challenge receives a Bo
 | **+1 action** | One of your Operators currently being activated or not yet activated. |
 | **−1 action** | One opposing Operator currently being activated or not yet activated. |
 
-Apply these limits and cleanup steps:
+If the general supply is empty when you win a challenge, take any Bonus token already on an Operator profile and move it to an Operator profile of your choice, with either side up.
 
-1. No more than **two Bonus tokens** may be on one Operator profile.
-2. If the same profile has both a **+1 action** and a **−1 action** token, they cancel each other out.
-3. When an Operator finishes their activation phase, remove any **−1 action** tokens from that profile and return them to the general supply.
-4. If you win a challenge when the general supply has no Bonus tokens left, take a Bonus token already on an Operator profile and place it, either side up, on an Operator profile of your choice.
-5. During **Upkeep**, return all Bonus tokens on Operator profiles to the general supply.
+## How Bonus tokens work
 
-Resolve the challenge itself using the normal challenge rules and the current FAQ/errata; this reference only summarises the No App changes.
+- **Maximum two tokens per profile.**
+- If a profile has both a **+1 action** and a **−1 action** token, they cancel each other immediately. Return both tokens to the general supply.
+- An Operator starting their activation with one or two **+1 action** tokens gets one or two bonus actions. Every action chosen during that activation—including bonus actions—must be different.
+- An Operator starting their activation with one **−1 action** token has one fewer action than normal.
+- If an unactivated Operator receives a **second −1 action** token, immediately mark them as activated for the round. They cannot be activated this round; return both −1 tokens to the supply.
+- If an Operator receives a Bonus token **during their activation**, apply its effect immediately. If they receive a second −1 action token during that activation, finish the current action and any challenge, then end that Operator's activation and return the −1 tokens to the supply.
+
+## Token cleanup
+
+When an Operator finishes their activation, return any **+1 action** tokens on their profile to the general supply. Also return any **−1 action** tokens on their profile when their activation ends.
+
+During **Upkeep**, return every remaining Bonus token on Operator profiles to the general supply.
 
 ## Table-side reminder
 
@@ -45,8 +52,11 @@ Resolve the challenge itself using the normal challenge rules and the current FA
 - [ ] No deployment or activation time limits.
 - [ ] A won challenge gives a Bonus token instead of changing time.
 - [ ] Maximum two Bonus tokens per Operator profile.
-- [ ] Remove **−1 action** tokens when that Operator finishes their activation phase.
-- [ ] Return every Bonus token to the supply during Upkeep.
+- [ ] Opposing +1 and −1 tokens on one profile cancel immediately.
+- [ ] Apply token effects immediately if a token is received during activation.
+- [ ] Return tokens after the affected activation; return all remaining tokens during Upkeep.
+
+Resolve the challenge itself using the normal challenge rules and the current FAQ/errata; this reference only summarises the No App changes.
 
 ## Rule references
 
