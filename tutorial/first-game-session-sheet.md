@@ -43,14 +43,22 @@ Record each activation as it happens. Use the official rules for the exact numbe
 
 ## Board-state log for the AI project
 
-After each activation, record enough information that another person could reconstruct the position.
+Use one row **after each activation** (not just at the end of a round). The first three rounds have space for four activations each; add rows on paper if your game lasts longer or you need to record an extra state. Keep coordinates and facing notation consistent throughout the sheet.
 
-| Round / phase | Operator | Team | Position | Facing | Damage / status | Objective state | Notes / rule checked |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Round / phase | Operator | Team | Position | Facing | Activation used? | Damage / status | Objective state | Notes / rule checked |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 / Attacker first | | | | | | | | |
+| 1 / Defender first | | | | | | | | |
+| 1 / Attacker second | | | | | | | | |
+| 1 / Defender second | | | | | | | | |
+| 2 / Attacker first | | | | | | | | |
+| 2 / Defender first | | | | | | | | |
+| 2 / Attacker second | | | | | | | | |
+| 2 / Defender second | | | | | | | | |
+| 3 / Attacker first | | | | | | | | |
+| 3 / Defender first | | | | | | | | |
+| 3 / Attacker second | | | | | | | | |
+| 3 / Defender second | | | | | | | | |
 
 ## After the session
 
