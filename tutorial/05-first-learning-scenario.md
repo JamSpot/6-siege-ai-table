@@ -31,7 +31,12 @@ This drill practises basic decisions; it does not create a new win condition.
 
 ## Learning mode
 
-Leave the timer off for the first attempt. Resolve every action completely before taking the next one. If a rule is unclear, pause and check the official rulebook, mission material or current FAQ/errata.
+Choose a timer mode before starting, and keep it consistent for the whole drill:
+
+- **With the companion app:** select its Beginner speed setting.
+- **Without the app:** use the official No App variant, including its Bonus-token challenge rules. Keep the [No App table reference](./no-app-quick-reference.md) beside the board.
+
+Do not use the standard timed rules with the timer simply ignored. Resolve every action completely before taking the next one. If a rule is unclear, pause and check the official rulebook, mission material or current FAQ/errata.
 
 ## Three practice rounds
 
