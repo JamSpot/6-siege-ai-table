@@ -9,7 +9,7 @@ next_title: "First-game session sheet"
 ---
 # First Game Checklist
 
-Use this beside the board while learning.
+Use this beside the board while learning. For a turn-by-turn prompt card, keep the [First Round — Coaching Card](./first-round-coaching-card.md) open beside it.
 
 ## Before setup
 
