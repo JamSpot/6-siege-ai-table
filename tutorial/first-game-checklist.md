@@ -9,7 +9,7 @@ next_title: "First-game session sheet"
 ---
 # First Game Checklist
 
-Use this beside the board while learning. For a turn-by-turn prompt card, keep the [First Round — Coaching Card](./first-round-coaching-card.md) open beside it.
+Use the [First Game — Table Setup Sheet](./first-game-setup-sheet.html) to prepare the board and squads, then keep this checklist beside the board while learning. For a turn-by-turn prompt card, keep the [First Round — Coaching Card](./first-round-coaching-card.md) open beside it.
 
 ## Before setup
 
