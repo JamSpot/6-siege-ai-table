@@ -53,7 +53,7 @@ If you cannot answer a question confidently, pause and check the official materi
 
 Keep the goal small: understand the board, movement, facing and line of sight. You do not need to optimise every decision or remember every gadget.
 
-After each completed Operator activation, record the relevant board state on the [First Game Session Sheet](./first-game-session-sheet.md), using the same position and facing notation every time.
+After each completed Operator activation, resolve the effects before moving on. For your first game, use the [First Game Session Sheet](./first-game-session-sheet.html) as a light phase summary. If you are deliberately collecting AI-test data, use the optional [Activation-by-Activation State Log](./activation-state-log.html) instead; it provides separate slots for multiple Operators in the same phase.
 
 ## At Upkeep
 
