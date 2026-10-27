@@ -71,9 +71,9 @@ A round contains four activation phases, followed by Upkeep. A phase can contain
 | Defender first — 3 | | | | | |
 | Attacker second — 1 | | | | | |
 | Attacker second — 2 | | | | | |
-| Defender second — 1 | | | | | |
-| Attacker second — 2 | | | | | |
 | Attacker second — 3 | | | | | |
+| Defender second — 1 | | | | | |
+| Defender second — 2 | | | | | |
 | Defender second — 3 | | | | | |
 | Upkeep / end of round | — | | | | |
 
