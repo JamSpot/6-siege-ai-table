@@ -43,7 +43,9 @@ Record each activation as it happens. Use the official rules for the exact numbe
 
 ## Board-state log for the AI project
 
-Use one row **after each activation** (not just at the end of a round). The first three rounds have space for four activations each; add rows on paper if your game lasts longer or you need to record an extra state. Keep coordinates and facing notation consistent throughout the sheet.
+This table is a **quick phase summary**, not a complete record after every Operator activation. Each phase can contain several Operator activations, so the four rows per round below are phase markers only.
+
+For the first game, do not let note-taking slow you down: use this table to record the Operator(s) activated and any rule questions. If you later want a detailed AI-test record, use the optional [Activation-by-Activation State Log](./activation-state-log.html), which has separate slots for each Operator activation and space to capture both teams' board state. Keep position and facing notation consistent throughout.
 
 | Round / phase | Operator | Team | Position | Facing | Activation used? | Damage / status | Objective state | Notes / rule checked |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
