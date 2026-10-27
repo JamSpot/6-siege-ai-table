@@ -23,6 +23,8 @@ A round contains four activation phases, followed by Upkeep. A phase can contain
 - Include relevant status markers, activation-used state, gadgets, destroyed/barricaded terrain, and objective/control state. Write `unchanged` only if the previous row still describes that part of the board.
 - If you are playing Attackers and want to preserve hidden information, do not inspect or record the Defender's true token identities during play. You can add the hidden-state details from the Defender's notes after the game.
 
+This page provides space for three rounds. If the game continues, copy the same column pattern onto paper; do not interrupt play just to complete every field.
+
 ## Round 1
 
 | Phase / slot | Operator that just activated | Attacker state after activation | Defender state after activation | Terrain, gadgets and objective changes | Rule checked / question |
