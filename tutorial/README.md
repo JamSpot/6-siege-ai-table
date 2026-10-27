@@ -16,6 +16,7 @@ This is a progressive, hands-on tutorial. Learn the mechanics at the table first
 5. [Consulate Control — Beginner Game](./first-learning-scenario.md)
 6. [First-game checklist](./first-game-checklist.md)
 7. [First-game session sheet](./first-game-session-sheet.md)
+   - Optional AI data collection: [Activation-by-Activation State Log](./activation-state-log.md)
 8. [Optional Clear the Room mini-drill](./05-first-learning-scenario.md)
 9. Cover, protection & advanced positioning
 10. Gadgets and special abilities
